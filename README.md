@@ -2,8 +2,7 @@
 
 PictoAI is a full-stack web platform that empowers users to generate stunning AI art using Stable Diffusion. With a seamless and responsive UI, powerful image rendering backend, and efficient cloud integration, PictoAI transforms creative imagination into visual reality.
 
-## 🌐 Live Demo
-[Deployed Link Here] *(Add once hosted)*
+
 
 ## 📸 Key Features
 - 🧠 **AI Art Generation** with Stable Diffusion
