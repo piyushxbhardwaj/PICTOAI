@@ -1,0 +1,16 @@
+# Node modules
+client/node_modules/
+client/dist/
+
+# Python virtual environments
+.venv/
+server/venv/
+**/__pycache__/
+*.pyc
+
+# Local environment variables and logs
+server/.env
+*.log
+
+# Generated output assets
+server/static/generated/
